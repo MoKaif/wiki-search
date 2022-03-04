@@ -1,6 +1,11 @@
 import { useState } from "react";
+import { useEffect } from 'react'
 
 function App() {
+  useEffect(() => {
+    document.title = "Wiki_Search | Kaif";
+  }, []);
+
   const [search, setSearch] = useState("");
   const [results, setResults] = useState([]);
   const [searchInfo, setSearchInfo] = useState({});
