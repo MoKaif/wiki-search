@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/wiki-search/static/css/main.2ba6cd79.chunk.css",
-    "main.js": "/wiki-search/static/js/main.b01df9e4.chunk.js",
-    "main.js.map": "/wiki-search/static/js/main.b01df9e4.chunk.js.map",
-    "runtime-main.js": "/wiki-search/static/js/runtime-main.524a8780.js",
-    "runtime-main.js.map": "/wiki-search/static/js/runtime-main.524a8780.js.map",
-    "static/js/2.4db8f357.chunk.js": "/wiki-search/static/js/2.4db8f357.chunk.js",
-    "static/js/2.4db8f357.chunk.js.map": "/wiki-search/static/js/2.4db8f357.chunk.js.map",
-    "index.html": "/wiki-search/index.html",
-    "static/css/main.2ba6cd79.chunk.css.map": "/wiki-search/static/css/main.2ba6cd79.chunk.css.map",
-    "static/js/2.4db8f357.chunk.js.LICENSE.txt": "/wiki-search/static/js/2.4db8f357.chunk.js.LICENSE.txt"
+    "main.css": "/nexawiki/static/css/main.a066dca2.css",
+    "main.js": "/nexawiki/static/js/main.d4d521ab.js",
+    "index.html": "/nexawiki/index.html",
+    "main.a066dca2.css.map": "/nexawiki/static/css/main.a066dca2.css.map",
+    "main.d4d521ab.js.map": "/nexawiki/static/js/main.d4d521ab.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.524a8780.js",
-    "static/js/2.4db8f357.chunk.js",
-    "static/css/main.2ba6cd79.chunk.css",
-    "static/js/main.b01df9e4.chunk.js"
+    "static/css/main.a066dca2.css",
+    "static/js/main.d4d521ab.js"
   ]
 }
