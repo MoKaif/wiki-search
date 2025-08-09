@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nexawiki/static/css/main.a066dca2.css",
-    "main.js": "/nexawiki/static/js/main.d4d521ab.js",
-    "index.html": "/nexawiki/index.html",
-    "main.a066dca2.css.map": "/nexawiki/static/css/main.a066dca2.css.map",
-    "main.d4d521ab.js.map": "/nexawiki/static/js/main.d4d521ab.js.map"
+    "main.css": "/NexaWiki/static/css/main.a066dca2.css",
+    "main.js": "/NexaWiki/static/js/main.d4d521ab.js",
+    "index.html": "/NexaWiki/index.html",
+    "main.a066dca2.css.map": "/NexaWiki/static/css/main.a066dca2.css.map",
+    "main.d4d521ab.js.map": "/NexaWiki/static/js/main.d4d521ab.js.map"
   },
   "entrypoints": [
     "static/css/main.a066dca2.css",
